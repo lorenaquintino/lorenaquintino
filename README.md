@@ -4,7 +4,6 @@
 - 👩‍💻 Eu faço ciência da computação
 - 🐠 Quero guardar meus códigos e projetos
 
-[![card](https://github-readme-stats.vercel.app/api?username=lorenaquintino&theme=neon&show_icons=true)](https://github.com/lorenaquintino/github-readme-stats) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenacode&theme=neon&layout=compact)](https://github.com/lorenaquintino/github-readme-stats)
 
 
 <div> 
